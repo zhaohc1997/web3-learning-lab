@@ -1,5 +1,6 @@
 # Weekly Log
 Week 1 
+
 Focus: Init repo, ERC20, basic data fetch
 
 **合约**
@@ -26,7 +27,11 @@ Focus: Init repo, ERC20, basic data fetch
 - [ ] 记录 3 个疑惑点
 
 Planned Hours: 10
+
 Done:
+
 Issues:
+
 Next:
+
 Reflection:
