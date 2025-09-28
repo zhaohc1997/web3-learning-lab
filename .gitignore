@@ -1,13 +1,29 @@
+# Foundry / Solidity
 lib/
 out/
 cache/
 broadcast/
+
+# Node / future frontend
 node_modules/
 dist/
+
+# Python
 __pycache__/
 *.pyc
+.env
+
+# Notebooks
 .ipynb_checkpoints/
+
+# OS / Editors
 .DS_Store
 .vscode/
-.env
+.idea/
+
+# Data temp
 data/raw/*.tmp
+data/processed/*.tmp
+
+# Reports (generated)
+reports/*.html
