@@ -1,5 +1,5 @@
 # Weekly Log
-Week 1 (Draft)
+Week 1 
 Focus: Init repo, ERC20, basic data fetch
 
 **合约**
